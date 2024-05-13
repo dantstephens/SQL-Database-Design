@@ -1,4 +1,4 @@
-# sql-challenge
+# SQL-Database-Design
 Completed by Daniel Stephens
 
 ## About this project
